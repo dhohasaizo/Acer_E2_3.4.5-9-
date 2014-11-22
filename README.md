@@ -1,4 +1,4 @@
-Acer_E2_3.4.5-9-
+E2_3.4.5-jb
 ================
 
 MODIF source original e2 to support cm11,zram,etc
